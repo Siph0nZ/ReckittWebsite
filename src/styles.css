@@ -1,0 +1,38 @@
+.text-color-black {
+  color: black;
+  --bs-nav-link-color: black !important;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url("assets/fonts/Rubik-Regular.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url("assets/fonts/Rubik-Medium.ttf");
+  font-weight: medium;
+}
+
+@font-face {
+  font-family: Rubik;
+  src: url("assets/fonts/Rubik-Bold.ttf");
+  font-weight: bold;
+}
+
+.rubik-regular {
+  font-family: Rubik-Regular;
+}
+
+.rubik-medium {
+  font-family: Rubik-Medium;
+}
+
+.rubik-bold {
+  font-family: Rubik-Bold;
+}
