@@ -3,25 +3,33 @@
   --bs-nav-link-color: black !important;
 }
 
+.text-color-white {
+  color: white !important;
+}
+
+.text-color-grey {
+  color: grey;
+}
 .bg-pink {
   background-color: pink;
 }
 
+/* font stuff */
 @font-face {
-  font-family: Rubik;
-  src: url("assets/fonts/Rubik-Regular.ttf");
+  font-family: Rubik-Regular;
+  src: url("/assets/fonts/Rubik-Regular.ttf");
   font-weight: normal;
 }
 
 @font-face {
-  font-family: Rubik;
-  src: url("assets/fonts/Rubik-Medium.ttf");
+  font-family: Rubik-Medium;
+  src: url("/assets/fonts/Rubik-Medium.ttf");
   font-weight: medium;
 }
 
 @font-face {
-  font-family: Rubik;
-  src: url("assets/fonts/Rubik-Bold.ttf");
+  font-family: Rubik-Bold;
+  src: url("/assets/fonts/Rubik-Bold.ttf");
   font-weight: bold;
 }
 
