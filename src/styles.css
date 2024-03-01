@@ -20,6 +20,12 @@
   }
 }
 
+/* Custom color */
+
+.btn-pink {
+  background-color: #c91775; /* Replace #ff0000 with your desired color value */
+}
+
 /* font stuff */
 @font-face {
   font-family: Rubik-Regular;
